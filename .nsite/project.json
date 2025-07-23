@@ -1,0 +1,20 @@
+{
+  "privateKey": "9970c9860bdc51a29ade7cbea04b42ffe520eb3f5dbd8125b5f23bee4719ea30",
+  "relays": [
+    "wss://relay.damus.io",
+    "wss://relay.primal.net",
+    "wss://nos.lol"
+  ],
+  "servers": [
+    "https://cdn.nostrcheck.me",
+    "https://nosto.re",
+    "https://nostr.download"
+  ],
+  "profile": {
+    "name": "cypher",
+    "about": "template for vibecoding"
+  },
+  "publishProfile": true,
+  "publishServerList": true,
+  "publishRelayList": true
+}
