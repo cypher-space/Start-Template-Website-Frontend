@@ -6,9 +6,8 @@
     "wss://nos.lol"
   ],
   "servers": [
-    "https://cdn.nostrcheck.me",
     "https://nosto.re",
-    "https://nostr.download"
+    "https://nostrcheck.me/"
   ],
   "profile": {
     "name": "cypher",
